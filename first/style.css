@@ -1,0 +1,27 @@
+
+ body{
+  background-color: #D8D8D8;
+  margin:0%;
+  
+}
+#top{
+  background-color: #444444;
+  padding: 4%;
+}
+#side{
+  background-color: #EFEFEF;
+  margin-left: 15%;
+  margin-right: 15%;
+  padding:20%;
+  padding-bottom:30%;
+}
+
+#fin{
+  
+  background-color:#222222;
+  margin-left: 15%;
+  margin-right: 15%;
+  padding:4%;
+  
+}
+ 
